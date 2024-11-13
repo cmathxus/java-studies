@@ -16,8 +16,6 @@ public class Employee {
         for (double salario : salarios) {
             System.out.print(salario + " ");
         }
-
-        averagePrinter();
     }
 
     public void averagePrinter() {
