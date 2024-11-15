@@ -2,9 +2,16 @@
 Este repositório contém meu progresso no curso de Java, com o objetivo de consolidar conhecimento em programação orientada a objetos, estrutura de dados e desenvolvimento de software em Java.
 
 ## 📚 Conteúdo
-Aulas teóricas e práticas <br>
-Exercícios de fixação e exemplos práticos <br>
-Projetos e mini-aplicações desenvolvidos ao longo do curso
+- Aulas teóricas e práticas, cobrindo:
+  - Fundamentos da linguagem Java
+  - Programação Orientada a Objetos (POO)
+  - Coleções e manipulação de dados
+  - Tratamento de exceções
+  - Conexão com banco de dados
+  - Threads e programação concorrente
+  - Programação funcional
+- Exercícios de fixação e exemplos práticos
+- Projetos e mini-aplicações desenvolvidos ao longo do curso
 ## 🖥️ Tecnologias
 **Java** - Linguagem de programação principal do curso
 <br>
