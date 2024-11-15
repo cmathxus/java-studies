@@ -1,5 +1,8 @@
 ### 📖 Curso de Java - Repositório de Estudos
-Este repositório contém meu progresso no curso de Java, com o objetivo de consolidar conhecimento em programação orientada a objetos, estrutura de dados e desenvolvimento de software em Java.
+Este repositório documenta meu progresso no curso **Maratona Java Virado no Jiraya**, 
+oferecido pelo canal [DevDojo](https://www.youtube.com/@devdojobrasil). 
+O curso cobre o núcleo da linguagem Java e visa consolidar conhecimentos essenciais para o
+desenvolvimento de software com Java.
 
 ## 📚 Conteúdo
 - Aulas teóricas e práticas, cobrindo:
@@ -12,10 +15,13 @@ Este repositório contém meu progresso no curso de Java, com o objetivo de cons
   - Programação funcional
 - Exercícios de fixação e exemplos práticos
 - Projetos e mini-aplicações desenvolvidos ao longo do curso
+
 ## 🖥️ Tecnologias
 **Java** - Linguagem de programação principal do curso
 <br>
 **IntelliJ IDEA** - IDE utilizada para o desenvolvimento
 
 ## ✔️ Objetivo
-O objetivo deste repositório é acompanhar meu aprendizado no curso de Java, permitindo revisitar o conteúdo e monitorar o progresso de cada aula.
+O objetivo deste repositório é acompanhar e documentar meu aprendizado em Java, 
+servindo como uma referência prática para revisão dos conceitos e progresso em cada aula. 
+Ele também ajuda a criar uma base sólida de códigos reutilizáveis para futuros projetos.
