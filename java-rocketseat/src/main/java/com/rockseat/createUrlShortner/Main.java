@@ -31,9 +31,9 @@ public class Main implements RequestHandler<Map<String, Object>, Map<String, Str
 
         String shortUrlCode = UUID.randomUUID().toString().substring(0,8);
 
-        Map<String, String> response = new HashMap<>();
-        response.put("code", shortUrlCode);
+        Map<String, String> responsee = new HashMap<>();
+        responsee.put("code", shortUrlCode);
 
-        return response;
+        return responsee;
     }
 }
