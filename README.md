@@ -2,7 +2,8 @@
 
 # Estudos em Java
 
-Este repositório reúne os meus estudos em Java, incluindo diferentes cursos e projetos. Cada diretório representa um curso:
+Este repositório reúne os meus estudos em Java, incluindo diferentes cursos e projetos. 
+Cada diretório representa um curso:
 
 - **DevDojo Maratona Java**: Curso completo para aprender Java do zero ao avançado.
 - **Rocketseat Spring Boot**: Mini-curso focado em criar aplicações Spring Boot.
@@ -25,11 +26,17 @@ Sinta-se à vontade para explorar os diretórios e acompanhar meu progresso!
 
 ## 🖥️ Tecnologias
 
-**Java** - Linguagem de programação principal do curso
-<br>
-**IntelliJ IDEA** - IDE utilizada para o desenvolvimento
+**Java**: Linguagem principal utilizada nos cursos da DevDojo e Rocketseat, com ênfase em programação 
+orientada a objetos e backend. <br>
+**AWS Lambda**: Serviço de computação serverless da AWS utilizado para a criação de funções em nuvem,
+aplicado no projeto de encurtador de URL.<br>
+**Maven**: Ferramenta de automação de construção utilizada para gerenciamento de dependências e 
+construção do projeto Java.<br>
+**IntelliJ IDEA**: IDE utilizada para o desenvolvimento dos projetos em Java.
 
 ## ✔️ Objetivo
 
-O objetivo deste repositório é acompanhar e documentar meu aprendizado em Java, 
-servindo como uma referência prática para revisão dos conceitos e progresso em cada aula.
+Este repositório documenta meu aprendizado nos cursos da DevDojo e Rocketseat, abrangendo tanto Java 
+quanto AWS Lambda. O repositório contém projetos práticos, como o Encurtador de URL desenvolvido no 
+curso da Rocketseat, além de exercícios e anotações que acompanham o progresso e o entendimento dos 
+conceitos em ambas as plataformas.
