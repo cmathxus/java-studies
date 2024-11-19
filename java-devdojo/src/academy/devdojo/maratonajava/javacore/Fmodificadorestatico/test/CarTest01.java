@@ -13,6 +13,7 @@ public class CarTest01 {
         c1.imprime();
         c2.imprime();
         c3.imprime();
+        c3.imprime();
 
     }
 }
