@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/java-rocketseat/pom.xml" />
+        <option value="$PROJECT_DIR$/java-rocketseat-urlshortener/CreateUrlLambda/pom.xml" />
       </list>
     </option>
   </component>

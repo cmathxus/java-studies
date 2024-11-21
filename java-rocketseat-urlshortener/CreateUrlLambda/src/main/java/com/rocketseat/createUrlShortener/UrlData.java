@@ -1,4 +1,4 @@
-package com.rockseat.createUrlShortener;
+package com.rocketseat.createUrlShortener;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
