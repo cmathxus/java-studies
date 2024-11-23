@@ -5,9 +5,9 @@
 Este repositório reúne os meus estudos em Java, incluindo diferentes cursos e projetos. 
 Cada diretório representa um curso:
 
-- **DevDojo Maratona Java**: Curso completo para aprender Java do zero ao avançado.
-- **Rocketseat Spring Boot**: Mini-curso focado em criar aplicações Spring Boot.
-- **Rocketseat Free Course**: Curso gratuito sobre serverless e AWS com Java.
+- **⌛ DevDojo Maratona Java**: Curso completo para aprender Java do zero ao avançado.
+- **⌛ Rocketseat Spring Boot**: Mini-curso focado em criar aplicações Spring Boot.
+- **✔️ Rocketseat Free Course**: Curso gratuito sobre serverless e AWS com Java.️
 
 Sinta-se à vontade para explorar os diretórios e acompanhar meu progresso!
 
