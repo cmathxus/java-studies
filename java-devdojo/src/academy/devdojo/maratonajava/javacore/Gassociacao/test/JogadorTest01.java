@@ -2,6 +2,8 @@ package devdojo.maratonajava.javacore.Gassociacao.test;
 
 import devdojo.maratonajava.javacore.Gassociacao.dominio.Jogador;
 
+import java.util.Random;
+
 public class JogadorTest01 {
     public static void main(String[] args) {
         Jogador jogador1 = new Jogador("Pelé");
@@ -27,5 +29,15 @@ public class JogadorTest01 {
             jogador.imprime();
             System.out.println();
         }
+
+        Random randomizer = new Random ();
+
+        randomizer.nextInt(10);
+
+        int numeroRandomizado;
+
+        numeroRandomizado = randomizer.nextInt(10);
+
+        System.out.println(numeroRandomizado);
     }
 }
