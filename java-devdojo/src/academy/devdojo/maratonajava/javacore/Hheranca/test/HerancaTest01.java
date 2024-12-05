@@ -7,8 +7,11 @@ import devdojo.maratonajava.javacore.Hheranca.dominio.Pessoa;
 public class HerancaTest01 {
     public static void main(String[] args) {
         Endereco endereco = new Endereco();
+        Endereco endereco2 = new Endereco();
         endereco.setCep("012345-209");
         endereco.setRua("Rua 3");
+        endereco2.setCep("012345-219");
+        endereco2.setRua("Rua 2");
 
         Pessoa pessoa = new Pessoa();
 
@@ -24,5 +27,11 @@ public class HerancaTest01 {
         funcionario.setEndereco(endereco);
         funcionario.setSalario(12345);
         funcionario.imprime();
+        Funcionario funcionario2 = new Funcionario();
+        funcionario2.setNome("Naruto Uzumaki");
+        funcionario2.setCpf("222352332");
+        funcionario2.setEndereco(endereco);
+        funcionario2.setSalario(12345);
+        funcionario2.imprime();
     }
 }
