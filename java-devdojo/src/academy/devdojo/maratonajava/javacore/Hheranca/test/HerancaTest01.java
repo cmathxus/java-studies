@@ -27,6 +27,7 @@ public class HerancaTest01 {
         funcionario.setEndereco(endereco);
         funcionario.setSalario(12345);
         funcionario.imprime();
+        System.out.println("---------");
         Funcionario funcionario2 = new Funcionario();
         funcionario2.setNome("Naruto Uzumaki");
         funcionario2.setCpf("222352332");
