@@ -30,7 +30,7 @@ public class HerancaTest01 {
         System.out.println("---------");
         Funcionario funcionario2 = new Funcionario();
         funcionario2.setNome("Naruto Uzumaki");
-        funcionario2.setCpf("222352332");
+        funcionario2.setCpf("22223352332");
         funcionario2.setEndereco(endereco);
         funcionario2.setSalario(12345);
         funcionario2.imprime();
