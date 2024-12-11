@@ -10,7 +10,6 @@
       <sourceFolder url="file://$MODULE_DIR$/java-rocketseat-urlshortener" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/java-rocketseat-urlshortener/RedirectUrlShortenerr" />
-      <excludeFolder url="file://$MODULE_DIR$/java-devdojo/src/academy/devdojo/maratonajava/javacore/Fmodificadorestatico" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
