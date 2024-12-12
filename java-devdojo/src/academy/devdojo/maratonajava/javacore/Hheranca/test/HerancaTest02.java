@@ -15,5 +15,7 @@ public class HerancaTest02 {
     // 9 - Construtor é executado da subclasse
     public static void main(String[] args) {
         Funcionario funcionario = new Funcionario("Jiraya");
+        Funcionario funcionario2 = new Funcionario("Naruto");
+        Funcionario funcionario3 = new Funcionario("Sasuke");
     }
 }
